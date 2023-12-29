@@ -1,0 +1,225 @@
+body{
+    background-color: #fafafa;
+}
+.header{
+    background-color: white;
+    padding: 10px;
+    text-align: center;
+
+}
+.lists{
+    word-spacing: normal;
+}
+.inpy{
+    padding-left: 25%;
+    padding-right: 75%;
+}
+.img-logo{
+    width: 220px;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    margin-right: auto;
+}
+li{
+    list-style-type: none;
+margin: auto;
+}
+
+.list{
+    display: flex;
+
+}
+.main{
+    background-image: url(https://newfold.scene7.com/is/image/NewfoldDigital/holiday?wid=1920&qlt=100);
+    background-repeat: no-repeat;
+    width: 100%;
+    margin: 0px;
+    text-align: center;
+    position: relative;
+}
+.h1{
+    margin: auto auto;
+    color: white;
+    position: absolute;
+}
+h1{
+    text-align: center;
+}
+.MARKETING{
+    
+    text-align: center;
+}
+.hrhrhr{
+    font-size: 55px;
+}
+h2{
+    font-weight: 900;
+    font-size: 50px;
+}
+.paragraf1{
+    color: black;
+
+    text-align: center;
+    font-size: 30px;
+    
+}
+.cards{
+    width: 90%;
+    flex-wrap: wrap;
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+}
+.card{
+    width: 30%;
+    background-color: #ffffff;
+}
+h4{
+    font-size: 30px;
+}
+.search-1{
+    margin: auto;
+    justify-content:end ;
+    text-align: center;
+    border-radius: 5px;
+    outline: none;
+    border: 1px solid black;
+}
+.nokta{
+    color: red;
+}
+.fresh{
+    padding-left: 5px;
+    padding-bottom: 8px;
+    justify-content: space-around;
+}
+.menu{
+display: flex;
+width: 75%;
+margin: auto;
+}
+.new-img{
+    width: 220px;
+}
+.new-menu{
+    justify-content: space-around;
+}
+.button-p{
+    display: flex;
+    justify-content: space-between;
+}
+.inputt{
+ padding-left: 25%;
+width: 100%;
+ padding-right: 40%;
+ border-radius: 10px;
+
+}
+.imagee{
+    background-image: url(https://newfold.scene7.com/is/image/NewfoldDigital/holiday?wid=1920&qlt=100);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    height: 74vh;
+}
+.hello{
+    color: #ffffff;
+    text-align: center;
+    padding-top: 20%;
+    font-size: 50px;
+}
+.ggg{
+    color: red;
+}
+.gg{
+    color: red;
+}
+.inpy{
+    pa
+}
+.b{
+    padding-top: 18px;
+}
+.b button{
+    background-color: black;
+    color: #ffffff;
+    border-radius: 5px;
+}
+.h5{
+    font-size: 35px;
+    font-weight: 900;
+}
+.h3{
+    font-size: 20px;
+    font-weight: 600;
+}
+.new-p{
+    text-align: center;
+    font-size: 30px;
+    color: gray;
+    font-weight: 700;
+}
+.cardss{
+    width: 90%;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+.cardd{
+    width: 30%;
+    
+    background-color: #ffffff;
+   
+}
+.imggg{
+    width: 100%;
+}
+.h7{
+    font-size: 20px;
+    font-weight: 800;
+}
+.cardsss{
+    width: 90%;
+display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    justify-content: space-between;
+}
+.carddd{
+    width: 30%;
+    background-color: #ffffff;
+}
+.immm{
+    width: 100%;
+}
+.live-chat{
+    background-color: rgb(255, 255, 255);
+    color: #000000;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 100%;
+}
+.live-chat:hover{
+    background-color: #000000;
+    color: #ffffff;
+}
+.nomore{
+    color: gray;
+    font-size: 40px;
+    font-weight: 800;
+    text-align: center;
+}
+.cads{
+    text-align: center;
+    background-color: #ffffff;
+}
+.kid{
+    display: flex;
+}
+body{
+    background-color: #f8f9fa
+}
